@@ -4,14 +4,14 @@ This is a simple To-Do List application made using **HTML**, **CSS**, and **Java
 
 ---
 
-## 🔧 What I Used
+##  What I Used
 - HTML for structure
 - CSS for styling and layout
 - JavaScript for logic and interactivity
 
 ---
 
-## ✅ What I Learned
+##  What I Learned
 - How to create and handle HTML forms
 - How to style with Flexbox and responsive design
 - How to use JavaScript for:
